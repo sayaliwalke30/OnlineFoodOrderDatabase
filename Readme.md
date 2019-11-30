@@ -7,12 +7,12 @@ It includes functionality of checking out the restaurants and related menu, filt
 ordering, delivery and payment. 
 This database will be used by online food ordering application that acts as an interface between the customers and the restaurants.
 
-Steps Included:
-1] Design ERD
-2] Create Tables and provide necessary encryptions
-3] Create stored procedures
-4] Create functions
-5] Generate reports in POWER BI as well as create views using SQL
+### Steps Included:
+#### 1] Design ERD
+#### 2] Create Tables and provide necessary encryptions
+#### 3] Create stored procedures
+#### 4] Create functions
+#### 5] Generate reports in POWER BI as well as create views using SQL
 
 Mission Objectives 
 ● To maintain (enter, update, and delete) data on customers. 
