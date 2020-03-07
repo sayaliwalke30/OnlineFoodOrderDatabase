@@ -1,7 +1,7 @@
 
 ## Database design toipc: Online food ordering
 
-Mission Statement 
+#### Mission Statement 
 The purpose of the database is to create and maintain the data for an online food ordering application.
 It includes functionality of checking out the restaurants and related menu, filtering based on price, cuisine and ratings,
 ordering, delivery and payment. 
